@@ -1,0 +1,19 @@
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\bin\Debug\Transaksi barang.exe.config
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\bin\Debug\Transaksi barang.exe
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\bin\Debug\Transaksi barang.pdb
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\bin\Debug\Transaksi barang.xml
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi barang.vbprojAssemblyReference.cache
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.LoginForm.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.Formmenu.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.Resources.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi barang.vbproj.GenerateResource.cache
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi barang.vbproj.CoreCompileInputs.cache
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi barang.exe
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi barang.xml
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi barang.pdb
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.Buat_Akun.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.Pembelian.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.Daftar_Barang.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.Laporan_Penjualan.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.Penjualan.resources
+D:\LKS 2021\Ujicoba 1\Transaksi barang\Transaksi barang\obj\Debug\Transaksi_barang.FormPenjualan.resources
